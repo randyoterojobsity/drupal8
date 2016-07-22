@@ -1,0 +1,14 @@
+uuid: 6aee89eb-e8f1-45f5-8b3f-5b1ac5a384e9
+name: RACC
+mail: mauricio.lopez@jobsity.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

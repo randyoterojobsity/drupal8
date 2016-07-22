@@ -1,0 +1,12 @@
+uuid: 42466207-74d0-4204-8eac-ff9fc074a034
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - mauricio.lopez@jobsity.com
+reply: ''
+weight: 0
